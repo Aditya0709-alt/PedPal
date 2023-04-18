@@ -1,4 +1,4 @@
-# PedPal
+<h1 align="center">PedalPal</h3>
 
 *<h3 align="center">Pedal for the planet!</h3>*
 
