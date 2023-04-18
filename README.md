@@ -82,3 +82,8 @@ Energy Savings = Battery Capacity (in kWh) x Average E-Bike Efficiency (Wh/km) x
 - A interactive chatbot is the perfect tool for simplifying user experience and making our customers aware.
 - We have a implemented a self-learning conversational bot that will keep growing as the questions explode, providing guidance to novel users.
 
+## Tools used 
+
+<p align="center">
+  <img width="631" alt="Screenshot 2023-04-18 at 8 33 00 PM" src="https://user-images.githubusercontent.com/77115883/232819175-3c34a544-d029-4760-8820-888ec374cb3d.png">
+</p>
