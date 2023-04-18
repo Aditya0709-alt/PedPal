@@ -87,3 +87,18 @@ Energy Savings = Battery Capacity (in kWh) x Average E-Bike Efficiency (Wh/km) x
 <p align="center">
   <img width="631" alt="Screenshot 2023-04-18 at 8 33 00 PM" src="https://user-images.githubusercontent.com/77115883/232819175-3c34a544-d029-4760-8820-888ec374cb3d.png">
 </p>
+
+
+## Future Scope
+
+- One way in which the website can be expanded in the future is to create a community web-app for the users of the website. This community will allow the users to meet people who use Vir Bikes and similar E-Bikes and connect and plan errands and other such trips.
+- The Business side can also be expanded upon in two main ways:
+- Offer a wider range of bike models
+- Selling battery packs for Vir Bikes and similar E-Bikes through the website
+- Try to tap into international markets and rural markets
+- Developing and selling E-Bike accessories
+- Add an ecommerce platform for Vir Bikes to sell directly to customers
+- Creating a rental service using web 3.0
+
+
+
