@@ -100,5 +100,20 @@ Energy Savings = Battery Capacity (in kWh) x Average E-Bike Efficiency (Wh/km) x
 - Add an ecommerce platform for Vir Bikes to sell directly to customers
 - Creating a rental service using web 3.0
 
+## Contributors
+
+| Name  | Email |
+| ------------- | ------------- |
+| Aditya Pawar  | aditya.pawar2@somaiya.edu  |
+| Nirav Gujarathi  | n.gujarathi@somaiya.edu|
+| Abdul Basit Shaik  | abdulbasit.s@somaiya.edu|
+
+
+
+```
+Event: No-Code Startup, I&E Cell, AIT Pune
+Position: 3rd
+```
+
 
 
