@@ -40,7 +40,8 @@ The e-bike startup industry has been growing rapidly in recent years, with compa
 ## Features
 
 **Personalised battery optimization**
-The Battery Capacity is calculated from the weight of the rider, the inclination of the road, and the distance to be traveled. 
+
+The Battery capacity is calculated from the weight of the rider, the inclination of the road, and the distance to be traveled. 
 
 These are calculated using the following formula:
 
@@ -66,4 +67,18 @@ It was found that energy consumption lowered and energy savings grew in the hous
 Energy Savings = Battery Capacity (in kWh) x Average E-Bike Efficiency (Wh/km) x 1000 / Distance (in km)
 ```
 
+
+**A gamified user experience**
+
+- It was observed that the customer's market was always slow to adopt E-bikes and  to counteract this and build a gamified UX which would incentivize the customers to use the app more. 
+- This would further create a habit which would benefit the users in the long run.
+- Here every time the user uses the app to make a journey a certain reward rank is given to the user. These reward ranks can be redeemed to provide coupons, and discounts on E-Bike related accessories.
+- Further more, the amount of reward ranks you have, puts you on a leaderboard with other users in your vicinity. The more reward rank you have the higher your ranking on the leader board.
+
+**Chatbot assistance**
+
+- Upon studying the market, we found that people are hesitant to use e-bikes due to concerns regarding safety and convenience. 
+- Making people aware about the benefits and catering to their concerns is an important step in marketing e-bikes as a valuable product.
+- A interactive chatbot is the perfect tool for simplifying user experience and making our customers aware.
+- We have a implemented a self-learning conversational bot that will keep growing as the questions explode, providing guidance to novel users.
 
