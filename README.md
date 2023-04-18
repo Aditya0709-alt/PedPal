@@ -1,4 +1,7 @@
-<img align="center" width="127" alt="Screenshot 2023-04-18 at 8 09 09 PM" src="https://user-images.githubusercontent.com/77115883/232812001-469af381-e224-4ab0-91c4-8db57353697e.png">
+<p align="center">
+<img width="127" alt="Screenshot 2023-04-18 at 8 09 09 PM" src="https://user-images.githubusercontent.com/77115883/232812001-469af381-e224-4ab0-91c4-8db57353697e.png">
+</p>
+
 
 
 <h1 align="center">PedalPal</h3>
