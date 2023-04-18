@@ -35,4 +35,21 @@ The e-bike startup industry has been growing rapidly in recent years, with compa
 <p align"center">
 <img width="1484" alt="Screenshot 2023-04-18 at 8 19 17 PM" src="https://user-images.githubusercontent.com/77115883/232814850-2b993340-fb5e-4922-af6d-9d8b94f39d87.png">
 </p>
+## Features
+
+**Personalised battery optimization**
+
+Based on our research it was observed that the use of E-bikes significantly impacted the following Ecofriendly Insights:
+- CO2 Emissions
+- Energy Consumption
+CO2 Emissions: It was easily deduced that the CO2 emissions would decrease for every person using E-bikes. But we were able to calculate the amount of carbon emissions reduced using the following formula:
+```html
+<h4>CO2 Emissions = Battery Capacity (in kWh) x Electricity Grid Emissions Factor (kg CO2/kWh)</h4>
+```
+It was found that energy consumption lowered and energy savings grew in the households which used E-Bikes regularly.
+
+```html
+<h4>Energy Savings = Battery Capacity (in kWh) x Average E-Bike Efficiency (Wh/km) x 1000 / Distance (in km)</h4>
+```
+
 
