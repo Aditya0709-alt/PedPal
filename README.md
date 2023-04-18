@@ -2,7 +2,7 @@
 
 *<h3 align="center">Pedal for the planet!</h3>*
 
-  <img  align="center" src="https://drive.google.com/file/d/1pZEs8pde-xjlQGpKhqRCEPywFkYpFian/view?usp=share_link">
+  <img  align="center" src="https://drive.google.com/drive/my-drive">
 
 
 ## Background
