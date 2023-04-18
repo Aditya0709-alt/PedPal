@@ -1,4 +1,4 @@
-                             ![Black Red and Blue Modern Fashion Logo](https://user-images.githubusercontent.com/77115883/232805621-a0c359a2-0d1b-45a1-ab41-de77dcfb4ccf.gif)
+<img align="center" width="127" alt="Screenshot 2023-04-18 at 8 09 09 PM" src="https://user-images.githubusercontent.com/77115883/232812001-469af381-e224-4ab0-91c4-8db57353697e.png">
 
 
 <h1 align="center">PedalPal</h3>
@@ -18,3 +18,5 @@ The e-bike startup industry has been growing rapidly in recent years, with compa
 - No Code tools like Thunkable, Glide, and Webflow will be used to create the website. 
 - The goal is to encourage e-bike adoption for a more sustainable future.
 - Vir Bike hopes to inspire a greater adoption of e-bikes, which will cut carbon emissions and contribute to a more environmentally friendly future. 
+
+## <img width="1001" alt="Screenshot 2023-04-18 at 8 07 21 PM" src="https://user-images.githubusercontent.com/77115883/232811479-dd131e62-7d05-4cc5-b6f4-80bdc5a4eeac.png">
