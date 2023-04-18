@@ -40,6 +40,17 @@ The e-bike startup industry has been growing rapidly in recent years, with compa
 ## Features
 
 **Personalised battery optimization**
+The Battery Capacity is calculated from the weight of the rider, the inclination of the road, and the distance to be traveled. 
+
+These are calculated using the following formula:
+
+```
+Battery Capacity (in Wh) = (Rider Weight in kg x Distance in km x Gradient Percent x 10 x 0.9) / (System Efficiency x Desired Range)
+```
+Here we are assuming system efficiency to be 80% and the desired range to be 96 km. These variables depend on the specific e-bike being used. 
+
+
+**Eco-friendly insights**
 
 Based on our research it was observed that the use of E-bikes significantly impacted the following Ecofriendly Insights:
 - CO2 Emissions
