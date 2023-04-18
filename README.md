@@ -43,13 +43,14 @@ Based on our research it was observed that the use of E-bikes significantly impa
 - CO2 Emissions
 - Energy Consumption
 CO2 Emissions: It was easily deduced that the CO2 emissions would decrease for every person using E-bikes. But we were able to calculate the amount of carbon emissions reduced using the following formula:
-```html
-<h4>CO2 Emissions = Battery Capacity (in kWh) x Electricity Grid Emissions Factor (kg CO2/kWh)</h4>
+
+```
+CO2 Emissions = Battery Capacity (in kWh) x Electricity Grid Emissions Factor (kg CO2/kWh)
 ```
 It was found that energy consumption lowered and energy savings grew in the households which used E-Bikes regularly.
 
-```html
-<h4>Energy Savings = Battery Capacity (in kWh) x Average E-Bike Efficiency (Wh/km) x 1000 / Distance (in km)</h4>
+```
+Energy Savings = Battery Capacity (in kWh) x Average E-Bike Efficiency (Wh/km) x 1000 / Distance (in km)
 ```
 
 
