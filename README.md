@@ -35,6 +35,8 @@ The e-bike startup industry has been growing rapidly in recent years, with compa
 <p align"center">
 <img width="1484" alt="Screenshot 2023-04-18 at 8 19 17 PM" src="https://user-images.githubusercontent.com/77115883/232814850-2b993340-fb5e-4922-af6d-9d8b94f39d87.png">
 </p>
+
+
 ## Features
 
 **Personalised battery optimization**
