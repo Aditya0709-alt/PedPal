@@ -32,8 +32,6 @@ The e-bike startup industry has been growing rapidly in recent years, with compa
 - The integration with fitness trackers is a great way to help users track their health and improve their overall wellness. 
 - Adding a chatbot assistance feature will assist users in navigating the no code mobile app and make it easier to find the information they need.
 
-Click here for the demo
-
 <p align"center">
 <img width="1484" alt="Screenshot 2023-04-18 at 8 19 17 PM" src="https://user-images.githubusercontent.com/77115883/232814850-2b993340-fb5e-4922-af6d-9d8b94f39d87.png">
 </p>
